@@ -62,7 +62,8 @@ Taking the above object oriented approach we can discover that we can override w
 
  `super()` is used to tell a parent’s constructor to be concerned with the child’s attributes
  `super()` abstracts away `call(this, attributes)`
-
+ `extends` keyword will abstract away  `Object.create()`
+ 
 ## Project Set up
 
 Follow these steps to set up and work on your project:
